@@ -1,6 +1,6 @@
 # Démo 2
 
-Démo poursuivant la [démo 1](https://github.com/aleblond12/training/docker-intro/demo1) en montrant comment placer le contenu que l'on souhaite dans le conteneur grâce à l'instruction **VOLUME**.
+Démo poursuivant la [démo 1](../demo1) en montrant comment placer le contenu que l'on souhaite dans le conteneur grâce à l'instruction **VOLUME**.
 
 ## Image et Dockerfile :
 Construire l'image depuis le Dockerfile

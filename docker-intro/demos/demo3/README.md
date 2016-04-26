@@ -1,6 +1,6 @@
 # Démo 3
 
-Démo poursuivant la [démo 2](https://github.com/aleblond12/training/docker-intro/demo2) en montrant comment partager un répertoire entre l'hôte et le conteneur.
+Démo poursuivant la [démo 2](../demo2) en montrant comment partager un répertoire entre l'hôte et le conteneur.
 
 ## Image et Dockerfile :
 Construire l'image depuis le Dockerfile
